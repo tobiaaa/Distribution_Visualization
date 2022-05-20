@@ -1,4 +1,5 @@
 # Distribution Visualization
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tobiaaa/Distribution_Visualization/blob/master/distribution_visualization.ipynb) \
 Visualize different common probability distributions and play with different parameters to get an intuition.
 1. Univariate
    1. Bernoulli
